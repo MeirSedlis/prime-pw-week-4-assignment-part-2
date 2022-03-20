@@ -1,19 +1,23 @@
 header{
-    background-color: bisque;
+    background-color: rgba(160, 81, 45, 0.322);
     color: sienna
 }
-
+.car{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .info{
-    background-color: wheat);
-    color: steelblue;
+    background-color: #b3dbf567;
+    color: rgb(36, 68, 97);
+    padding-left: 50px; 
+    padding-right: 50px;
+    border: 2px solid navy;
 }
-
+h2{
+    background-color: lightsteelblue;
+}
 h3{
-    background-color: aliceblue;
-    color: purple;
-}
-
-h4{
-    background-color: aliceblue;
-    color: purple;
+    background-color: rgb(24, 46, 66);
+    color: rgb(135, 143, 153);
 }
