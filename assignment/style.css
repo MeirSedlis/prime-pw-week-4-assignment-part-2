@@ -10,12 +10,15 @@ header{
 .info{
     background-color: #b3dbf567;
     color: rgb(36, 68, 97);
-    padding-left: 50px; 
-    padding-right: 50px;
+    padding-left: 60px; 
+    padding-right: 60px;
     border: 2px solid navy;
+    text-align: center;
 }
 h2{
     background-color: lightsteelblue;
+    padding-right: 0px;
+
 }
 h3{
     background-color: rgb(24, 46, 66);
